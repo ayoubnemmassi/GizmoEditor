@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a65836d936e9fd48951cd1bdfbb4ff7, type: 3}
+  m_Name: Scene Gizmo Asset 1
+  m_EditorClassIdentifier: 
+  _gizmos:
+  - Name: HOLLA
+    Position: {x: 0.6042392, y: 0.014242411, z: -2.9687042}
+    isEditing: 0
+  - Name: yepp
+    Position: {x: 1.2379549, y: 0, z: 0.39621234}
+    isEditing: 0
+  - Name: PNJ to help
+    Position: {x: 0, y: 0, z: 1.3714311}
+    isEditing: 0
+  - Name: Boss Arena
+    Position: {x: -13.68, y: 1.921, z: -1}
+    isEditing: 0
